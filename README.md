@@ -2,7 +2,7 @@
 
 # Abdelmonem Darweesh
 
-Hi there, My name is Abdelmonem from Egypt.
+Hi there, My name is Abdelmonem from and I'm Egyption.
 I'm a self-taught front-end developer a passionate person for learning new things and updating my current knowledge
 
 ## Skills
