@@ -10,12 +10,12 @@ I'm passionate about learning new technologies and continuously improving my ski
 
 ## Skills
 
-- **Frontend Development**: React, Next.js, Redux Toolkit, React Query, TypeScript, JavaScript (ES6+), HTML, CSS, Tailwind CSS, Ant Design, Bootstrap, SASS
+- **Frontend Development**: React, Next.js, Redux Toolkit, React Query, TypeScript, JavaScript (ES6+), HTML, CSS, Tailwind CSS, Ant Design, Bootstrap, SASS, Shadcn and Taliwind CSS
 - **Testing**: Vitest, React Testing Library, Jest
 - **Build Tools & Frameworks**: Vite, Webpack
-- **Backend Basics**: Node.js, Express.js (Learning PHP & Laravel)
+- **Backend Basics**: Node.js, Express.js.
 - **Version Control & CI/CD**: Git, GitHub, GitHub Actions
-- **Other Tools & Technologies**: REST APIs, GraphQL, JWT Authentication, Docker (Basics)
+- **Other Tools & Technologies**: REST APIs, GraphQL, JWT Authentication.
 
 ## Current Focus
 
