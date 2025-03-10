@@ -1,17 +1,35 @@
-![](https://github.com/abdelmonem88/abdelmonem88/blob/main/max-duzij-qAjJk-un3BI-unsplash.jpg)
+![Banner](https://github.com/abdelmonem88/abdelmonem88/blob/main/max-duzij-qAjJk-un3BI-unsplash.jpg)
 
 # Abdelmonem Darweesh
 
-Hi there, My name is Abdelmonem from and I'm Egyption.
-I'm a self-taught front-end developer a passionate person for learning new things and updating my current knowledge
+## About Me
+
+Hi there! I'm Abdelmonem, a **Senior Frontend Developer** from Egypt. I specialize in building scalable and efficient web applications, focusing on performance and maintainability. I have **3+ years of experience** working with modern front-end technologies, primarily **React** and **TypeScript**.
+
+I'm passionate about learning new technologies and continuously improving my skill set. Currently, I'm expanding my knowledge in **Angular** and **backend development with PHP & Laravel**.
 
 ## Skills
 
-REACT / JS / HTML / CSS / BOOTSTRAP / SASS / GIT&GITHUB
+- **Frontend Development**: React, Next.js, Redux Toolkit, React Query, TypeScript, JavaScript (ES6+), HTML, CSS, Tailwind CSS, Ant Design, Bootstrap, SASS
+- **Testing**: Vitest, React Testing Library, Jest
+- **Build Tools & Frameworks**: Vite, Webpack
+- **Backend Basics**: Node.js, Express.js (Learning PHP & Laravel)
+- **Version Control & CI/CD**: Git, GitHub, GitHub Actions
+- **Other Tools & Technologies**: REST APIs, GraphQL, JWT Authentication, Docker (Basics)
 
-- 🌱 I’m currently learning React 
-- 📫 How to reach me: Email: abdelmonem1888@gmail.com 
+## Current Focus
 
+- 📌 Improving performance optimization techniques in React applications.
+- 🌱 Learning **Angular** and **PHP with Laravel** to become a full-stack developer.
+- 🔍 Exploring **GoLang** as it's used in my current company.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/abdelmonem88)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/abdelmonem-darweesh-92a89010a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/abdelmonem88)  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelmonem88&count_private=true)
+## Get in Touch
+
+- 📫 **Email**: abdelmonem1888@gmail.com
+- 💼 **LinkedIn**: [Abdelmonem Darweesh](https://www.linkedin.com/in/abdelmonem-darweesh-92a89010a/)
+- 🔗 **GitHub**: [abdelmonem88](https://github.com/abdelmonem88)
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelmonem88&count_private=true&show_icons=true&theme=radical)
+
