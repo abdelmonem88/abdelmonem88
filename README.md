@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **driveBuy**
 
-- 🌱 I’m currently learning **deeper dive in enhance performance of react apps**
+- 🌱 I’m currently diving deeper into enhancing the performance of React apps.
 
 - 📫 How to reach me **abdelmonem1888@gmail.com**
 
